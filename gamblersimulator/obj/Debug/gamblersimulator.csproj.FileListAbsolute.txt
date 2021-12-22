@@ -1,0 +1,7 @@
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\bin\Debug\gamblersimulator.exe.config
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\bin\Debug\gamblersimulator.exe
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\bin\Debug\gamblersimulator.pdb
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\obj\Debug\gamblersimulator.csproj.AssemblyReference.cache
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\obj\Debug\gamblersimulator.csproj.CoreCompileInputs.cache
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\obj\Debug\gamblersimulator.exe
+E:\GamblingSimulator\Gamblersimulator\gamblersimulator\obj\Debug\gamblersimulator.pdb
